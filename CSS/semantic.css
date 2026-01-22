@@ -1,0 +1,71 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 0;
+    font-style: unset;
+    font-weight: bolder;
+    
+}
+header{
+    background-color: darkturquoise;
+    text-align: center;
+    padding: 10px;
+    color: aliceblue;
+}
+nav ul li{
+    display: inline;
+    margin: 0 15px;
+}
+nav ul li a{
+    text-decoration: none;
+    padding: 5px;
+    color: chocolate;
+    
+}
+nav ul li a:hover{
+    color: darkred;
+
+}
+header:hover{
+    color: red;
+}
+main{
+    width: 80%;
+    margin: 10px auto;
+}
+section{
+    border: 1px solid green;
+    margin-bottom: 10px ;
+    padding: 10px;
+    box-shadow: 5px 5px 5px mediumaquamarine;
+    border-radius: 5px;
+}
+h2{
+color: cadetblue;
+}
+h3{
+    color: maroon;
+}
+.safari{
+    background-color: pink;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding: 10px;
+    box-shadow: 2px 2px 2px gray;
+
+
+}
+footer{
+    background-color: lightsalmon;
+    text-align: center;
+    padding: 10px;
+    color: cornflowerblue;
+
+}
+#bud{
+    width: 100px ;
+    height: 70px;
+}
+#dad{
+    background-color: brown;
+    font-size: large ;
+}
